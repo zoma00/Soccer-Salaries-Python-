@@ -1,19 +1,21 @@
 # Soccer-Salaries-Python-
 
-Identifying Undervalued Soccer Players (or a more specific title)
+**Identifying Undervalued Soccer Players:**
+Create visualizations (scatter plots, etc.) to explore the relationship between salaries and market values.
+Analyze players with a significant difference (high market value, lower salary) as potential acquisition or contract renegotiation targets.
 
-Description:
-
+**Description:**
 This Jupyter Notebook explores a dataset of soccer players using Python and Pandas to identify potentially undervalued talent for acquisition or contract renegotiation. It focuses on analyzing salaries (wages) and estimated market values to find players who might be underpaid relative to their perceived worth.
 
 Technologies:
 
 Python
 Pandas
-Seaborn, Bokeh for visualizations
+(Optional: Seaborn, Bokeh for visualizations)
 Methodology:
 
-Data Cleaning and Wrangling:
+**Data Cleaning and Wrangling:**
+
 Handle missing values.
 Convert data types for salaries and market values (e.g., remove currency symbols, convert to numerical format).
 Ensure data consistency.
